@@ -1,0 +1,294 @@
+# Academic Planner AI
+
+### Reducing Lesson Planning Time Through Workflow Automation
+
+---
+
+## Project Snapshot
+
+| Category | Details                            |
+| -------- | ---------------------------------- |
+| Role     | Product Manager                    |
+| Industry | EdTech                             |
+| Users    | Teachers, Principals               |
+| Duration | 4 Weeks                            |
+| Stage    | MVP Design                         |
+| Goal     | Reduce lesson planning time by 80% |
+
+---
+
+# The Problem
+
+### Current Teacher Workflow
+
+```text
+Create Lesson
+      ↓
+Open Claude
+      ↓
+Generate Content
+      ↓
+Copy to Word
+      ↓
+Format Template
+      ↓
+Create Worksheet
+      ↓
+Create Assessment
+      ↓
+Submit to Principal
+```
+
+### Pain Points
+
+🔴 Multiple AI prompts
+
+🔴 Repetitive formatting
+
+🔴 Manual documentation
+
+🔴 No lesson repository
+
+🔴 No review workflow
+
+---
+
+# User Research
+
+### Survey Conducted
+
+👩‍🏫 Teachers Interviewed
+
+4 Initial Responses
+
+---
+
+## Key Findings
+
+| Insight            | Observation             |
+| ------------------ | ----------------------- |
+| AI Adoption        | 100% use ChatGPT/Gemini |
+| Planning Time      | 30–120 mins             |
+| Assessment Time    | 1–5 hrs/week            |
+| Main Need          | Faster documentation    |
+| Willingness to Try | 75% Yes                 |
+
+---
+
+# Root Cause Analysis
+
+Teachers do NOT have a content problem.
+
+Teachers have a workflow problem.
+
+### Existing Situation
+
+```text
+AI Generates Content
+           ❌
+AI Does Not Manage Workflow
+```
+
+---
+
+# Opportunity
+
+Instead of building:
+
+❌ Another ChatGPT
+
+Build:
+
+✅ Academic Planning Platform
+
+---
+
+# Solution
+
+## Academic Planner AI
+
+### Teacher Workflow
+
+```text
+Login
+   ↓
+Create Lesson
+   ↓
+Generate
+   ↓
+Save
+   ↓
+Submit
+```
+
+---
+
+### Principal Workflow
+
+```text
+Review Queue
+      ↓
+Approve
+      ↓
+Archive
+```
+
+---
+
+# Product Vision
+
+## Before
+
+```text
+Teacher
+   ↓
+Claude
+   ↓
+Word
+   ↓
+Email
+   ↓
+Principal
+```
+
+---
+
+## After
+
+```text
+Teacher
+   ↓
+Academic Planner AI
+   ↓
+Principal Dashboard
+```
+
+---
+
+# MVP Features
+
+### Teacher
+
+✅ Google Login
+
+✅ Generate Lesson Plan
+
+✅ Save Drafts
+
+✅ Search Lessons
+
+✅ Export PDF
+
+✅ Submit for Review
+
+---
+
+### Principal
+
+✅ View Submitted Plans
+
+✅ Approve Plans
+
+✅ Request Revisions
+
+✅ Add Comments
+
+---
+
+# Lesson Planning Template
+
+Generated Sections:
+
+📚 Learning Outcomes
+
+🧠 Bloom's Mapping
+
+🎯 Objectives
+
+⚠ Misconceptions
+
+💡 Icebreakers
+
+📖 Teaching Aids
+
+✍ Exit Tickets
+
+🤖 AI Integration
+
+🏠 Homework
+
+🌍 SDG Mapping
+
+🎭 Multiple Intelligence Mapping
+
+💼 Career Connections
+
+---
+
+# Prioritization
+
+### Must Have
+
+Authentication
+
+Lesson Generation
+
+Save Draft
+
+Approval Workflow
+
+PDF Export
+
+---
+
+### Excluded From MVP
+
+❌ Payment Gateway
+
+❌ Parent Portal
+
+❌ Mobile App
+
+❌ Coordinator Role
+
+❌ Multi-School Support
+
+❌ Analytics
+
+---
+
+# Product Architecture
+
+```text
+Teacher Dashboard
+        ↓
+ Lesson Generator
+        ↓
+ Supabase Database
+        ↓
+ Admin Dashboard
+```
+
+---
+
+# Success Metrics
+
+🎯 Generate lesson plans in under 3 minutes
+
+🎯 Reduce planning effort by 80%
+
+🎯 Increase lesson standardization
+
+🎯 Create reusable lesson repository
+
+---
+
+# Key Learning
+
+The biggest insight from research:
+
+"Teachers already have AI.
+
+They don't have workflow automation."
+
+The product evolved from an AI Lesson Planner into an Academic Planning & Approval Platform.

@@ -1,0 +1,145 @@
+ADDITIONAL REQUIREMENT — PERFORMANCE DASHBOARD SYSTEM
+Also create a COMPLETE Hogwarts-style performance dashboard system for all three classes:
+
+* 6B (29 students)
+* 7A (35 students)
+* 8A (31 students)
+The dashboard system should help track:
+
+* Academic progress
+* Speaking confidence
+* Writing improvement
+* Participation
+* Team collaboration
+* Behaviour
+* Creativity
+* Leadership
+* Reading fluency
+* Grammar accuracy
+SECTION 11 — PERFORMANCE DASHBOARD
+Create a detailed dashboard system including:
+
+1. CLASS OVERVIEW DASHBOARD
+
+* Total house points
+* Weekly rankings
+* Monthly rankings
+* XP trends
+* Participation percentage
+* Most active house
+* Most improved student
+* Attendance integration
+* Behaviour tracker
+* Speaking confidence tracker
+
+1. STUDENT INDIVIDUAL DASHBOARD Track:
+
+* XP earned
+* XP lost
+* Word coins
+* Stars earned
+* House contribution
+* Speaking score
+* Reading score
+* Writing score
+* Grammar mastery
+* Vocabulary growth
+* Leadership points
+* Teamwork score
+* Creativity score
+* Mission completion rate
+Also include:
+
+* Progress bars
+* Rank titles
+* Skill trees
+* Achievement unlock system
+* Wizard levels
+* Magical badges
+
+1. HOUSE PERFORMANCE DASHBOARD For each house:
+
+* Total XP
+* Weekly wins
+* Tournament victories
+* Average participation
+* Collaboration rating
+* Discipline score
+* Speaking performance
+* Literature performance
+* Grammar performance
+* Outdoor quest performance
+
+1. VISUAL DATA SYSTEM Design:
+
+* Hogwarts-style charts
+* Spell-meter progress bars
+* Potion bottle progress trackers
+* Magical map style leaderboards
+* Floating rank system
+* Crystal meter indicators
+* House cup tracker
+* Quest completion tracker
+
+1. TEACHER CONTROL PANEL Include:
+
+* Quick scoring system
+* Weekly review system
+* Auto ranking logic
+* Student intervention tracker
+* Low participation alerts
+* Reward recommendation system
+* Behaviour warning tracker
+* Parent communication notes
+
+1. MONTHLY REPORT SYSTEM Generate:
+
+* Monthly student progress report
+* House performance report
+* Teacher observation sheet
+* Student reflection page
+* Peer feedback system
+* Self-assessment sheet
+
+1. ANALYTICS & LEARNING OUTCOMES Track:
+
+* Speaking improvement over time
+* Grammar accuracy growth
+* Vocabulary acquisition
+* Reading confidence
+* Writing quality progression
+* Participation trends
+* Classroom engagement levels
+Include practical methods to calculate these.
+
+1. DIGITAL + PHYSICAL VERSION Create:
+
+* Blackboard version
+* Chart paper version
+* Spreadsheet version
+* Canva version
+* Printable version
+* Wall display version
+
+1. GAMIFICATION PSYCHOLOGY Explain how the dashboard:
+
+* Increases motivation
+* Encourages healthy competition
+* Builds accountability
+* Helps shy students improve
+* Rewards consistency
+* Prevents weaker students from feeling discouraged
+
+1. READY-TO-USE TEMPLATES Generate sample templates for:
+
+* Weekly dashboard
+* Monthly dashboard
+* Individual student report
+* House leaderboard
+* Wizard profile cards
+* XP tracking sheets
+* Teacher master tracker
+* Student report cards
+* House cup scoreboards
+The entire dashboard system should visually feel like: “Hogwarts magical records + fantasy RPG statistics + elite academy tracking system.”
+Make it cinematic, immersive, practical, low-cost, and usable daily in real classrooms.
