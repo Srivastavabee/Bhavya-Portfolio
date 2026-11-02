@@ -3,7 +3,7 @@ import Projects from "@/components/Projects";
 import { motion } from "framer-motion";
 import { ArrowDown, Linkedin, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import profilePhoto from "@assets/IMG_0445_1766430282970.JPG";
+import profilePhoto from "@assets/profile-new.jpg";
 
 export default function Home() {
   return (
