@@ -120,6 +120,9 @@ export default function Resume() {
                     <span className="text-sm font-mono text-muted-foreground">Mar 2026 – Present</span>
                   </div>
                   <p className="text-sm text-gray-700 mt-1">Sunbeam Group of Educational Institutions</p>
+                  <ul className="list-disc pl-4 space-y-3 text-sm text-gray-700 leading-relaxed mt-4">
+                    <li>Currently leveraging my skills as an educator for developing students&rsquo; analytical thinking, clarity of expression, and conceptual understanding through structured, outcome-driven learning.</li>
+                  </ul>
                 </div>
 
                 <div className="group">
