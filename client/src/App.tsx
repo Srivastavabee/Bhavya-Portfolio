@@ -11,6 +11,7 @@ import AiSentimentAnalysis from "@/pages/AiSentiment";
 import MobileGameGamification from "@/pages/MobileGame";
 import LessonPlanner from "@/pages/LessonPlanner";
 import SpellboundClassroom from "@/pages/SpellboundClassroom";
+import DailyDissection from "@/pages/DailyDissection";
 
 function Router() {
   return (
@@ -22,6 +23,7 @@ function Router() {
       <Route path="/projects/mobile-game" component={MobileGameGamification} />
       <Route path="/projects/lesson-planner" component={LessonPlanner} />
       <Route path="/projects/spellbound-classroom" component={SpellboundClassroom} />
+      <Route path="/projects/daily-dissection" component={DailyDissection} />
       <Route component={NotFound} />
     </Switch>
   );

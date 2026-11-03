@@ -4,6 +4,7 @@ import { Link } from "wouter";
 import saasImage from "@assets/generated_images/minimalist_saas_dashboard_abstract.png";
 import aiImage from "@assets/generated_images/ai_sentiment_analysis_abstract.png";
 import gameImage from "@assets/generated_images/mobile_game_gamification_abstract.png";
+import journalImage from "@assets/journal-home.png";
 import wellnessImage from "@assets/generated_images/wellness_app_pomodoro_abstract.png";
 
 const projects = [
@@ -51,6 +52,15 @@ const projects = [
     image: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600'%3E%3Crect width='800' height='600' fill='%2320243b'/%3E%3Ccircle cx='620' cy='100' r='180' fill='none' stroke='%23ef7b5d' stroke-width='2' opacity='.5'/%3E%3Ccircle cx='620' cy='100' r='120' fill='none' stroke='%23ef7b5d' stroke-width='2' opacity='.3'/%3E%3Ctext x='70' y='270' fill='%23f6f0e4' font-family='Georgia' font-size='64'%3ESpellbound%3C/text%3E%3Ctext x='74' y='325' fill='%23ef7b5d' font-family='Georgia' font-style='italic' font-size='42'%3EClassroom%3C/text%3E%3C/svg%3E",
     tags: ["Learning Systems", "Dashboard", "EdTech"],
     link: "/projects/spellbound-classroom"
+  },
+  {
+    id: 6,
+    title: "Daily Dissection",
+    category: "0 to 1 · Content Product",
+    description: "A personal publication built around one essay a day. Product thinking applied to a writing habit, from benchmarking to shipping.",
+    image: journalImage,
+    tags: ["0 to 1", "Habit Design", "Content Strategy"],
+    link: "/projects/daily-dissection"
   },
 ];
 

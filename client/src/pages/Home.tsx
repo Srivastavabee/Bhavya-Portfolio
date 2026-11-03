@@ -1,6 +1,7 @@
 import Navigation from "@/components/Navigation";
 import Projects from "@/components/Projects";
 import { motion } from "framer-motion";
+import { Link } from "wouter";
 import { ArrowDown, Linkedin, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import profilePhoto from "@assets/profile-new.jpg";
@@ -103,7 +104,7 @@ export default function Home() {
                   <span className="relative inline-flex h-3 w-3 rounded-full bg-black" />
                 </span>
                 <span className="font-mono text-xs uppercase tracking-widest text-muted-foreground">
-                  Work in progress
+                  Live · one essay a day
                 </span>
               </div>
 
@@ -114,6 +115,19 @@ export default function Home() {
                 A personal collection of essays on biology, literature, and the
                 cultural architecture of the human spirit.
               </p>
+              <div className="mt-8 flex flex-wrap gap-6 font-mono text-xs uppercase tracking-widest">
+                <a
+                  href="https://essaysby-bhavya.vercel.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="border-b border-black pb-1 hover:opacity-60 transition-opacity"
+                >
+                  Read the journal →
+                </a>
+                <Link href="/projects/daily-dissection" className="border-b border-black pb-1 hover:opacity-60 transition-opacity">
+                  Read the case study →
+                </Link>
+              </div>
             </div>
           </motion.div>
         </div>
@@ -244,7 +258,7 @@ export default function Home() {
             </div>
             
             <div className="mt-24 text-sm text-gray-500">
-              © 2024 Bhavya Srivastava. Made with Replit.
+              © 2026 Bhavya Srivastava. All rights reserved.
             </div>
           </motion.div>
         </div>
