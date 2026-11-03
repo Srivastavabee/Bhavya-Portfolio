@@ -2,7 +2,7 @@ import Navigation from "@/components/Navigation";
 import Projects from "@/components/Projects";
 import { motion } from "framer-motion";
 import { Link } from "wouter";
-import { ArrowDown, Linkedin, Mail } from "lucide-react";
+import { ArrowDown, BookOpen, Linkedin, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import profilePhoto from "@assets/profile-new.jpg";
 
@@ -249,8 +249,8 @@ export default function Home() {
               <a href="https://www.linkedin.com/in/bhavyasrivastav/" target="_blank" rel="noreferrer" className="p-4 bg-white/10 hover:bg-white/20 transition-colors rounded-full">
                 <Linkedin className="w-6 h-6" />
               </a>
-              <a href="https://medium.com/@chibiPM" target="_blank" rel="noreferrer" className="p-4 bg-white/10 hover:bg-white/20 transition-colors rounded-full">
-                <span className="font-serif font-bold text-lg leading-none">M</span>
+              <a href="https://essaysby-bhavya.vercel.app/" target="_blank" rel="noreferrer" aria-label="B's Journal" className="p-4 bg-white/10 hover:bg-white/20 transition-colors rounded-full">
+                <BookOpen className="w-6 h-6" />
               </a>
               <a href="mailto:bhavyasrivastava184@gmail.com" className="p-4 bg-white/10 hover:bg-white/20 transition-colors rounded-full">
                 <Mail className="w-6 h-6" />

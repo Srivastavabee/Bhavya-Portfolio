@@ -52,10 +52,6 @@ export default function Resume() {
                   <BookOpen className="w-4 h-4" />
                   <a href="https://essaysby-bhavya.vercel.app/" target="_blank" rel="noreferrer" className="hover:underline">B&apos;s Journal (essays)</a>
                 </li>
-                <li className="flex items-center gap-2">
-                  <FileText className="w-4 h-4" />
-                  <a href="https://medium.com/@chibiPM" target="_blank" rel="noreferrer" className="hover:underline">Blog (Medium)</a>
-                </li>
               </ul>
             </section>
 
