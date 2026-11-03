@@ -116,8 +116,16 @@ export default function Resume() {
               <div className="space-y-10">
                 <div className="group">
                   <div className="flex flex-col md:flex-row justify-between md:items-baseline mb-2">
+                    <h4 className="text-xl font-bold font-display">Professional Educator</h4>
+                    <span className="text-sm font-mono text-muted-foreground">Mar 2025 – Present</span>
+                  </div>
+                  <p className="text-sm text-gray-700 mt-1">Sunbeam Group of Educational Institutions</p>
+                </div>
+
+                <div className="group">
+                  <div className="flex flex-col md:flex-row justify-between md:items-baseline mb-2">
                     <h4 className="text-xl font-bold font-display">Product Manager (Freelance)</h4>
-                    <span className="text-sm font-mono text-muted-foreground">Feb 2024 – Present</span>
+                    <span className="text-sm font-mono text-muted-foreground">Feb 2024 – Feb 2026</span>
                   </div>
                   <ul className="list-disc pl-4 space-y-3 text-sm text-gray-700 leading-relaxed mt-4">
                     <li>Drove end-to-end product lifecycle across 4 MVP launches in gaming, SaaS, edtech, and wellness.</li>
