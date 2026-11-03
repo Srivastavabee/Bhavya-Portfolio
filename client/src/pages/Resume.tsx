@@ -42,7 +42,7 @@ export default function Resume() {
                 </li>
                 <li className="flex items-center gap-2">
                   <Linkedin className="w-4 h-4" />
-                  <a href="https://www.linkedin.com/in/bhavya-srivastava-67b105230" target="_blank" rel="noreferrer" className="hover:underline">LinkedIn</a>
+                  <a href="https://www.linkedin.com/in/bhavyasrivastav/" target="_blank" rel="noreferrer" className="hover:underline">LinkedIn</a>
                 </li>
                 <li className="flex items-center gap-2">
                   <FileText className="w-4 h-4" />

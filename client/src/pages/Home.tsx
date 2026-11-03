@@ -246,7 +246,7 @@ export default function Home() {
             </a>
 
             <div className="flex justify-center gap-8">
-              <a href="https://www.linkedin.com/in/bhavya-srivastava-67b105230" target="_blank" rel="noreferrer" className="p-4 bg-white/10 hover:bg-white/20 transition-colors rounded-full">
+              <a href="https://www.linkedin.com/in/bhavyasrivastav/" target="_blank" rel="noreferrer" className="p-4 bg-white/10 hover:bg-white/20 transition-colors rounded-full">
                 <Linkedin className="w-6 h-6" />
               </a>
               <a href="https://medium.com/@chibiPM" target="_blank" rel="noreferrer" className="p-4 bg-white/10 hover:bg-white/20 transition-colors rounded-full">
