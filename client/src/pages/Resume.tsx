@@ -117,7 +117,7 @@ export default function Resume() {
                 <div className="group">
                   <div className="flex flex-col md:flex-row justify-between md:items-baseline mb-2">
                     <h4 className="text-xl font-bold font-display">Professional Educator</h4>
-                    <span className="text-sm font-mono text-muted-foreground">Mar 2025 – Present</span>
+                    <span className="text-sm font-mono text-muted-foreground">Mar 2026 – Present</span>
                   </div>
                   <p className="text-sm text-gray-700 mt-1">Sunbeam Group of Educational Institutions</p>
                 </div>
