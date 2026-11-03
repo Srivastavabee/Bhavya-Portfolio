@@ -1,5 +1,5 @@
 import Navigation from "@/components/Navigation";
-import { ArrowLeft, Download, Mail, Linkedin, FileText } from "lucide-react";
+import { ArrowLeft, Download, Mail, Linkedin, FileText, Globe, BookOpen } from "lucide-react";
 import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
@@ -43,6 +43,14 @@ export default function Resume() {
                 <li className="flex items-center gap-2">
                   <Linkedin className="w-4 h-4" />
                   <a href="https://www.linkedin.com/in/bhavyasrivastav/" target="_blank" rel="noreferrer" className="hover:underline">LinkedIn</a>
+                </li>
+                <li className="flex items-center gap-2">
+                  <Globe className="w-4 h-4" />
+                  <a href="https://bhavya-portfolio-woad.vercel.app/" target="_blank" rel="noreferrer" className="hover:underline">Portfolio website</a>
+                </li>
+                <li className="flex items-center gap-2">
+                  <BookOpen className="w-4 h-4" />
+                  <a href="https://essaysby-bhavya.vercel.app/" target="_blank" rel="noreferrer" className="hover:underline">B&apos;s Journal (essays)</a>
                 </li>
                 <li className="flex items-center gap-2">
                   <FileText className="w-4 h-4" />
